@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project develops a **complete end‑to‑end machine learning system** for predicting flight delays and early arrivals at **Hartsfield–Jackson Atlanta International Airport (ATL)** using large‑scale U.S. flight data for **2021**.  
 It integrates **advanced data preprocessing, feature engineering, unsupervised learning (PCA, K‑Means)**, and **supervised ensemble models (XGBoost, LightGBM, Random Forest)** — demonstrating technical maturity in **AI engineering and MLOps‑ready design**.
