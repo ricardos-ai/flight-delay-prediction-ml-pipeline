@@ -127,14 +127,9 @@ It includes attributes such as departure/arrival times, distances, delays, taxi 
    cd flight-delay-prediction-ml-pipeline
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Download the 2021 U.S. flight dataset from the [BTS Official Source](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp) and place it under a local `data/` directory.
 
-3. Download the 2021 U.S. flight dataset from the [BTS Official Source](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp) and place it under a local `data/` directory.
-
-4. Run the notebook:
+3. Run the notebook:
    ```bash
    jupyter notebook notebooks/ATL_Flight_Delays_ML_Pipeline_2021_Lite.ipynb
    ```
